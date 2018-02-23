@@ -2,6 +2,9 @@
 
 ## The Code
 
+* [Prereq 0a](https://github.com/sandimetz/99bottles/commits/prereq-0a)
+Instructions: Write a program to output the lyrics to ["99 bottles" song](http://www.99-bottles-of-beer.net/lyrics.html). 
+Do not modify `test_the_whole_song` (or the public API of `lib/bottles.rb`) in `test/bottles_test.rb`, but add any additional tests.
 * [Chapter 1](https://github.com/sandimetz/99bottles/commits/chapter-1)
 * [Chapter 2](https://github.com/sandimetz/99bottles/commits/chapter-2)
 * [Chapter 3](https://github.com/sandimetz/99bottles/commits/chapter-3)
